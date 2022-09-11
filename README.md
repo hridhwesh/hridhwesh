@@ -1,4 +1,1 @@
-Hey!
-I am Hridhwesh, a beginner coder, aiming to be a professional back-end programmer someday!
-I am interested in learning more about back end coding as much as possible. 
-Nice to meet yall :D !
+Enthusiastic IT student eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Results-driven with notable success in planning, analysis, and implementation of security initiatives to cloud functionalities. Motivated to learn, grow and excel in the field of Cloud Computing Industry.
